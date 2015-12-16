@@ -1,0 +1,7 @@
+rider_doctors:
+    resource: "@RiderDoctorsBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,3 @@
+rider_homepage:
+  pattern: /
+  defaults: { _controller: RiderDoctorsBundle:Default:index }

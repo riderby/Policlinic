@@ -1,0 +1,2 @@
+rider_doctors_homepage:
+    resource: "@RiderDoctorsBundle/Resources/config/routing/default.yml"
