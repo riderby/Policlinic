@@ -1,5 +1,5 @@
 <?php
-//check
+
 namespace Rider\DoctorsBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
